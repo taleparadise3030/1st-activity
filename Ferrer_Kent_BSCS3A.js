@@ -1,4 +1,4 @@
-~// Variables
+// Variables
 let customer = "Kent Ferrer";
 let product = "Monitor";
 let total = "17000";
@@ -10,7 +10,7 @@ let prices = ["1500", "17000", "25000"];
 let products = ["Mouse", "Monitor", "Laptop"];
 
 
-// Conditionals
+// Conditiondals
 if (total >=  10000) {
     console.log("You get a 20% discount!");
 }
