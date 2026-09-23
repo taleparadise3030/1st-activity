@@ -1,6 +1,6 @@
 // Object Literal 1
 const studentObject = {
-    name: "Kent",
+    name: "Carlo Kringo",
     age: 20,
     course: "IT"
 };
